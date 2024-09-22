@@ -1,0 +1,9 @@
+/* App theme "default (dark)" */
+
+:root {
+    --main-bg: #222;
+    --main-tc: #fff;
+
+    --head-bg: #444;
+    --head-bd: #555;
+}
